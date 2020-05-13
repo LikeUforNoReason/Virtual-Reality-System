@@ -1,0 +1,16 @@
+{
+    "name": "Tilia.Input.UnityInputManager.Editor",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Malimbe.FodyRunner.UnityIntegration.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

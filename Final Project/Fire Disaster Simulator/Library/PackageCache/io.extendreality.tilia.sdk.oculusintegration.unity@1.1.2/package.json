@@ -1,0 +1,37 @@
+{
+    "name": "io.extendreality.tilia.sdk.oculusintegration.unity",
+    "displayName": "Tilia SDK OculusIntegration Unity",
+    "description": "SDK Wrappers for the Oculus Integration Unity asset.",
+    "version": "1.1.2",
+    "unity": "2018.3",
+    "unityRelease": "10f1",
+    "keywords": [
+        "sdk",
+        "wrapper"
+    ],
+    "homepage": "https://github.com/ExtendRealityLtd/Tilia.SDK.OculusIntegration.Unity/",
+    "bugs": {
+        "url": "https://github.com/ExtendRealityLtd/Tilia.SDK.OculusIntegration.Unity/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/ExtendRealityLtd/Tilia.SDK.OculusIntegration.Unity.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Extend Reality Ltd",
+        "email": "hello@extendreality.io",
+        "url": "https://github.com/ExtendRealityLtd"
+    },
+    "dependencies": {
+        "io.extendreality.zinnia.unity": "1.15.0"
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.asmdef",
+        "*.xml",
+        "Documentation",
+        "Runtime"
+    ]
+}
